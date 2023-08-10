@@ -1,0 +1,23 @@
+.main{
+    margin-top: 70px;
+}
+body{
+    background-color: #212529;
+}
+/*
+.row{
+    margin-top: 150px;
+}
+*/
+.link1{
+    color: white;
+}
+.link1:hover{
+    color: aqua;
+}
+.link2{
+    color: white;
+}
+.link2:hover{
+    color: red;
+}
